@@ -12,7 +12,7 @@ https://user-images.githubusercontent.com/89229665/136798066-b7d2e2c7-9112-46b7-
 
 ## ⚙ Como funciona o programa?
 
-O programa requer a instalação das bibliotecas requests e csv. Ele funciona extraindo informações de um arquivo JSON, gerado toda vez que uma pessoa clica no botão LOAD MORE do site https://guardian.ng/category/news/nigeria/. Em um primeiro momento, há uma restrição na quantidade de dados extraídos (12 registros). Para aumentar o escopo, foi necessário alterar a URL do JSON, mais especificamente, mexendo nos parâmetro OFFSET e PER_PAGE. 
+O programa requer a instalação das bibliotecas requests e csv. Ele funciona extraindo informações de um arquivo JSON, gerado toda vez que uma pessoa clica no botão "LOAD MORE" do site https://guardian.ng/category/news/nigeria/. Em um primeiro momento, há uma restrição na quantidade de dados extraídos (12 registros). Para aumentar o escopo, foi necessário alterar a URL do JSON, mais especificamente, mexendo nos parâmetro OFFSET e PER_PAGE. 
 
 ![20211011_print-do-arquivo-JSON_editado](https://user-images.githubusercontent.com/89229665/136817996-a9eac86e-356b-4404-a83e-4aa18eabcdc8.png)
 
@@ -23,7 +23,7 @@ Em âmbito pessoal, esse projeto foi fundamental para colocar em prática os ens
 
 ## 🗂 Como o projeto está organizado?
 
-Esse é um repositório bem simples de ser navegado. Ele possui a presente página (README.md) com explicações sobre o projeto, a página da licença escolhida para o compartilhamento do código, e o código do programa, que foi copiado do Google Colab.  
+Esse é um repositório bem simples de ser navegado. Ele possui a presente página (README.md) com explicações sobre o projeto, a página da licença escolhida para o compartilhamento do código, e a pasta "Pensamento_Computacional_Trabalho_Final_(1).ipynb" com o código do programa, que foi copiado do Google Colab.  
 
 ## 🤔 Há algo mais que eu precise saber?
 Apesar das melhorias que podem e devem ser feitas, a princípio, esse programa não passará por novas modificações, porque a finalidade dele se cumpriu: demonstrar os conhecimentos obtidos ao longo da disciplina de Pensamento Computacional. Mas fique à vontade para sugerir, opinar, palpitar sobre o que achar que for pertinente para a melhoria do programa.  
