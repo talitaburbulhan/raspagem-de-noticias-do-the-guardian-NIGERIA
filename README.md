@@ -18,5 +18,5 @@ Em âmbito pessoal, esse projeto foi fundamental para colocar em prática os ens
 
 Esse é um repositório bem simples de ser navegado. Ele possui a presente página (README.md) com explicações sobre o projeto, a página da licença escolhida para o compartilhamento do código, e o código do programa, que foi copiado do Google Colab.  
 
-##🤔 Há algo mais que eu precise saber?
+## 🤔 Há algo mais que eu precise saber?
 Apesar das melhorias que podem e devem ser feitas, a princípio, esse programa não passará por novas modificações, porque a finalidade dele se cumpriu: demonstrar os conhecimentos obtidos ao longo da disciplina de Pensamento Computacional. Mas fique à vontade para sugerir, opinar, palpitar sobre o que achar que for pertinente para a melhoria do programa.  
