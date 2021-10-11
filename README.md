@@ -4,7 +4,7 @@ Esse repositório contém um código para raspagem de informações do site do j
 
 🌐https://guardian.ng/category/news/nigeria/
 
-A raspagem foi desenvolvida como trabalho final da disciplina de Pensamento Computacional, ministrada pelo programador Álvaro Justen (https://github.com/turicas), no Master de Jonalismo de Dados, Automação e Data Storytelling, do INSPER (🔎Saiba mais: https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/).
+A raspagem foi desenvolvida como trabalho final da disciplina de Pensamento Computacional, ministrada pelo programador [Álvaro Justen](https://github.com/turicas), no [Master de Jonalismo de Dados, Automação e Data Storytelling](https://www.insper.edu.br/pos-graduacao/master-em-jornalismo-de-dados-automacao-e-data-storytelling/), do INSPER.
 
 https://user-images.githubusercontent.com/89229665/136798066-b7d2e2c7-9112-46b7-a139-3d45f42f2e5d.mp4
 
